@@ -11,4 +11,5 @@ To build install Tauri `cargo install create-tauri-app`, then run `cargo tauri b
 If you want to download binaries head over to [Releases](https://github.com/conversejs/converse-tauri/releases).
 
 ####  License
+
 GNU/AGPLv3 - Check LICENSE.md for details
